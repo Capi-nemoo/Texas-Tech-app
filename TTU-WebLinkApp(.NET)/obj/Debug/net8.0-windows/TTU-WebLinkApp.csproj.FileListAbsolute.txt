@@ -1,0 +1,16 @@
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\bin\Debug\net8.0-windows\TTU-WebLinkApp.exe
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\bin\Debug\net8.0-windows\TTU-WebLinkApp.deps.json
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\bin\Debug\net8.0-windows\TTU-WebLinkApp.runtimeconfig.json
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\bin\Debug\net8.0-windows\TTU-WebLinkApp.dll
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\bin\Debug\net8.0-windows\TTU-WebLinkApp.pdb
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU_WebLinkApp.Form1.resources
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.csproj.GenerateResource.cache
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.AssemblyInfoInputs.cache
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.AssemblyInfo.cs
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.csproj.CoreCompileInputs.cache
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.dll
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\refint\TTU-WebLinkApp.dll
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.pdb
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\TTU-WebLinkApp.genruntimeconfig.cache
+C:\Users\capi_\Documents\ProjectsCapi_nemoo\TTU-WebLinkApp\TTU-WebLinkApp(.NET)\obj\Debug\net8.0-windows\ref\TTU-WebLinkApp.dll

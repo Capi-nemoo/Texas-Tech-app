@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "TTUWebLinkAppUnoApp",
+  "display": "standalone",
+  "name": "TTUWebLinkAppUnoApp",
+  "short_name": "TTUWebLinkAppUnoApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
