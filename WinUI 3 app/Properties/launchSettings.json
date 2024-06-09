@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TTUwinapp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TTUwinapp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
