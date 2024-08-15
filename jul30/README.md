@@ -1,50 +1,52 @@
 # README - Elite Tech Dev Club (ETDC)
 
-RENATO RAMIREZ JUL 30 2024
+RENATO RAMIREZ JUL 28 2024
+
+[Github](https://github.com/Capi-nemoo)
 
 ## Checklist for Starting a New Student Organization at Texas Tech University
 
 ### Initial Requirements
 
-- [ ] Gather a minimum of five student members including a President and Treasurer.
-- [ ] Identify a full-time Texas Tech faculty or staff member to serve as an advisor.
+- [ ] Gather a minimum of five student members including a President and Treasurer. Leader <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Identify a full-time Texas Tech faculty or staff member to serve as an advisor.  <span style="color:  #FF5555; font-weight: bold;">NOP</span>
 
 ### Registration Process
 
 - [x] Check if the organization's purpose is unique using the Student Org Search Engine on TechConnect.
-- [ ] Submit the 'Intent to Form Request' on TechConnect.
-- [ ] Schedule and attend a mandatory meeting with the Student Involvement staff.
+- [ ] Submit the 'Intent to Form Request' on TechConnect.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Schedule and attend a mandatory meeting with the Student Involvement staff.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
 
 ### Documentation
 
-- [ ] Draft the organization's Constitution and Bylaws.
-  - [ ] Define the organization's structure and purpose.
-  - [ ] Outline membership requirements and selection processes.
-  - [ ] Include officer titles, duties, and election processes.
-  - [ ] Establish financial procedures and decision-making processes.
-- [ ] Obtain approval for any use of Texas Tech logos through Texas Tech Marketing & Communications.
+- [ ] Draft the organization's Constitution and Bylaws.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Define the organization's structure and purpose.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Outline membership requirements and selection processes.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Include officer titles, duties, and election processes.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Establish financial procedures and decision-making processes.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Obtain approval for any use of Texas Tech logos through Texas Tech Marketing & Communications.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
 
 ### Approval and Final Steps
 
-- [ ] Receive confirmation and feedback from the Director of Student Involvement.
-- [ ] Complete the Student Org Leader Orientation for new organizations.
-- [ ] Submit the New Org Registration including:
-  - [ ] Names and contact info for President, Treasurer, and three other members.
-  - [ ] Advisor contact information and the signed Advisor Agreement Form.
-  - [ ] Uploaded Constitution/Bylaws.
-  - [ ] Certificate of completion from SOLO for New Student Orgs.
+- [ ] Receive confirmation and feedback from the Director of Student Involvement.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Complete the Student Org Leader Orientation for new organizations.<span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Submit the New Org Registration including:  <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Names and contact info for President, Treasurer, and three other members. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Advisor contact information and the signed Advisor Agreement Form. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Uploaded Constitution/Bylaws. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+  - [ ] Certificate of completion from SOLO for New Student Orgs. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
 
 ### Annual Compliance
 
-- [ ] Complete the Student Org Leader Orientation annually.
-- [ ] Renew organization registration each school year before the fall classes start.
-- [ ] Update organization roster on TechConnect within 10 university working days of any leadership changes.
-- [ ] Complete required annual Risk Management Training.
+- [ ] Complete the Student Org Leader Orientation annually. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Renew organization registration each school year before the fall classes start. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Update organization roster on TechConnect within 10 university working days of any leadership changes. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Complete required annual Risk Management Training. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
 
 ### Resources and Contacts
 
-- [ ] Utilize campus resources during the 30-day grace period to recruit members and organize events.
-- [ ] Maintain regular contact with the student organization advisor.
+- [ ] Utilize campus resources during the 30-day grace period to recruit members and organize events. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
+- [ ] Maintain regular contact with the student organization advisor. <span style="color:  #FF5555; font-weight: bold;">NOP</span>
 
 # Index
 
@@ -58,6 +60,8 @@ RENATO RAMIREZ JUL 30 2024
 ## Introduction
 
 The "Elite Tech Dev Club" (ETDC) is a student organization dedicated to promoting the use of advanced and challenging technologies in software development. 
+
+
 
 ## Project Commitment
 
@@ -156,3 +160,7 @@ Elite Tech Dev Club (ETDC) Projects/
 
 
 # Figma Prototipe
+
+ [prototipe1.pdf](../../../Library/Mobile Documents/com~apple~CloudDocs/Personal/Github/UX:IU/prototipe1.pdf) 
+
+![prototipe1](/Users/renatorr/Documents/prototipe1.png)
