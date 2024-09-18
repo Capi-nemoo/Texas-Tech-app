@@ -1,0 +1,592 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		441FE29C2C6EC28100897A24 /* Texas_Tech_UniversityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441FE29B2C6EC28100897A24 /* Texas_Tech_UniversityApp.swift */; };
+		441FE29E2C6EC28100897A24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441FE29D2C6EC28100897A24 /* ContentView.swift */; };
+		441FE2A02C6EC28100897A24 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441FE29F2C6EC28100897A24 /* Item.swift */; };
+		441FE2A22C6EC28300897A24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 441FE2A12C6EC28300897A24 /* Assets.xcassets */; };
+		441FE2A52C6EC28300897A24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 441FE2A42C6EC28300897A24 /* Preview Assets.xcassets */; };
+		441FE2B02C6EC28300897A24 /* Texas_Tech_UniversityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441FE2AF2C6EC28300897A24 /* Texas_Tech_UniversityTests.swift */; };
+		441FE2BA2C6EC28300897A24 /* Texas_Tech_UniversityUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441FE2B92C6EC28300897A24 /* Texas_Tech_UniversityUITests.swift */; };
+		441FE2BC2C6EC28300897A24 /* Texas_Tech_UniversityUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441FE2BB2C6EC28300897A24 /* Texas_Tech_UniversityUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		441FE2AC2C6EC28300897A24 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FE2902C6EC28100897A24 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FE2972C6EC28100897A24;
+			remoteInfo = "Texas Tech University";
+		};
+		441FE2B62C6EC28300897A24 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FE2902C6EC28100897A24 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FE2972C6EC28100897A24;
+			remoteInfo = "Texas Tech University";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		441FE2982C6EC28100897A24 /* Texas Tech University.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Texas Tech University.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		441FE29B2C6EC28100897A24 /* Texas_Tech_UniversityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Texas_Tech_UniversityApp.swift; sourceTree = "<group>"; };
+		441FE29D2C6EC28100897A24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		441FE29F2C6EC28100897A24 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		441FE2A12C6EC28300897A24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		441FE2A42C6EC28300897A24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		441FE2A62C6EC28300897A24 /* Texas_Tech_University.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Texas_Tech_University.entitlements; sourceTree = "<group>"; };
+		441FE2AB2C6EC28300897A24 /* Texas Tech UniversityTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Texas Tech UniversityTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		441FE2AF2C6EC28300897A24 /* Texas_Tech_UniversityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Texas_Tech_UniversityTests.swift; sourceTree = "<group>"; };
+		441FE2B52C6EC28300897A24 /* Texas Tech UniversityUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Texas Tech UniversityUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		441FE2B92C6EC28300897A24 /* Texas_Tech_UniversityUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Texas_Tech_UniversityUITests.swift; sourceTree = "<group>"; };
+		441FE2BB2C6EC28300897A24 /* Texas_Tech_UniversityUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Texas_Tech_UniversityUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		441FE2952C6EC28100897A24 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		441FE2A82C6EC28300897A24 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		441FE2B22C6EC28300897A24 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		441FE28F2C6EC28100897A24 = {
+			isa = PBXGroup;
+			children = (
+				441FE29A2C6EC28100897A24 /* Texas Tech University */,
+				441FE2AE2C6EC28300897A24 /* Texas Tech UniversityTests */,
+				441FE2B82C6EC28300897A24 /* Texas Tech UniversityUITests */,
+				441FE2992C6EC28100897A24 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		441FE2992C6EC28100897A24 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				441FE2982C6EC28100897A24 /* Texas Tech University.app */,
+				441FE2AB2C6EC28300897A24 /* Texas Tech UniversityTests.xctest */,
+				441FE2B52C6EC28300897A24 /* Texas Tech UniversityUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		441FE29A2C6EC28100897A24 /* Texas Tech University */ = {
+			isa = PBXGroup;
+			children = (
+				441FE29B2C6EC28100897A24 /* Texas_Tech_UniversityApp.swift */,
+				441FE29D2C6EC28100897A24 /* ContentView.swift */,
+				441FE29F2C6EC28100897A24 /* Item.swift */,
+				441FE2A12C6EC28300897A24 /* Assets.xcassets */,
+				441FE2A62C6EC28300897A24 /* Texas_Tech_University.entitlements */,
+				441FE2A32C6EC28300897A24 /* Preview Content */,
+			);
+			path = "Texas Tech University";
+			sourceTree = "<group>";
+		};
+		441FE2A32C6EC28300897A24 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				441FE2A42C6EC28300897A24 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		441FE2AE2C6EC28300897A24 /* Texas Tech UniversityTests */ = {
+			isa = PBXGroup;
+			children = (
+				441FE2AF2C6EC28300897A24 /* Texas_Tech_UniversityTests.swift */,
+			);
+			path = "Texas Tech UniversityTests";
+			sourceTree = "<group>";
+		};
+		441FE2B82C6EC28300897A24 /* Texas Tech UniversityUITests */ = {
+			isa = PBXGroup;
+			children = (
+				441FE2B92C6EC28300897A24 /* Texas_Tech_UniversityUITests.swift */,
+				441FE2BB2C6EC28300897A24 /* Texas_Tech_UniversityUITestsLaunchTests.swift */,
+			);
+			path = "Texas Tech UniversityUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		441FE2972C6EC28100897A24 /* Texas Tech University */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 441FE2BF2C6EC28300897A24 /* Build configuration list for PBXNativeTarget "Texas Tech University" */;
+			buildPhases = (
+				441FE2942C6EC28100897A24 /* Sources */,
+				441FE2952C6EC28100897A24 /* Frameworks */,
+				441FE2962C6EC28100897A24 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Texas Tech University";
+			productName = "Texas Tech University";
+			productReference = 441FE2982C6EC28100897A24 /* Texas Tech University.app */;
+			productType = "com.apple.product-type.application";
+		};
+		441FE2AA2C6EC28300897A24 /* Texas Tech UniversityTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 441FE2C22C6EC28300897A24 /* Build configuration list for PBXNativeTarget "Texas Tech UniversityTests" */;
+			buildPhases = (
+				441FE2A72C6EC28300897A24 /* Sources */,
+				441FE2A82C6EC28300897A24 /* Frameworks */,
+				441FE2A92C6EC28300897A24 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				441FE2AD2C6EC28300897A24 /* PBXTargetDependency */,
+			);
+			name = "Texas Tech UniversityTests";
+			productName = "Texas Tech UniversityTests";
+			productReference = 441FE2AB2C6EC28300897A24 /* Texas Tech UniversityTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		441FE2B42C6EC28300897A24 /* Texas Tech UniversityUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 441FE2C52C6EC28300897A24 /* Build configuration list for PBXNativeTarget "Texas Tech UniversityUITests" */;
+			buildPhases = (
+				441FE2B12C6EC28300897A24 /* Sources */,
+				441FE2B22C6EC28300897A24 /* Frameworks */,
+				441FE2B32C6EC28300897A24 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				441FE2B72C6EC28300897A24 /* PBXTargetDependency */,
+			);
+			name = "Texas Tech UniversityUITests";
+			productName = "Texas Tech UniversityUITests";
+			productReference = 441FE2B52C6EC28300897A24 /* Texas Tech UniversityUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		441FE2902C6EC28100897A24 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					441FE2972C6EC28100897A24 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+					441FE2AA2C6EC28300897A24 = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = 441FE2972C6EC28100897A24;
+					};
+					441FE2B42C6EC28300897A24 = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = 441FE2972C6EC28100897A24;
+					};
+				};
+			};
+			buildConfigurationList = 441FE2932C6EC28100897A24 /* Build configuration list for PBXProject "Texas Tech University" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 441FE28F2C6EC28100897A24;
+			productRefGroup = 441FE2992C6EC28100897A24 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				441FE2972C6EC28100897A24 /* Texas Tech University */,
+				441FE2AA2C6EC28300897A24 /* Texas Tech UniversityTests */,
+				441FE2B42C6EC28300897A24 /* Texas Tech UniversityUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		441FE2962C6EC28100897A24 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				441FE2A52C6EC28300897A24 /* Preview Assets.xcassets in Resources */,
+				441FE2A22C6EC28300897A24 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		441FE2A92C6EC28300897A24 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		441FE2B32C6EC28300897A24 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		441FE2942C6EC28100897A24 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				441FE29E2C6EC28100897A24 /* ContentView.swift in Sources */,
+				441FE2A02C6EC28100897A24 /* Item.swift in Sources */,
+				441FE29C2C6EC28100897A24 /* Texas_Tech_UniversityApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		441FE2A72C6EC28300897A24 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				441FE2B02C6EC28300897A24 /* Texas_Tech_UniversityTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		441FE2B12C6EC28300897A24 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				441FE2BC2C6EC28300897A24 /* Texas_Tech_UniversityUITestsLaunchTests.swift in Sources */,
+				441FE2BA2C6EC28300897A24 /* Texas_Tech_UniversityUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		441FE2AD2C6EC28300897A24 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FE2972C6EC28100897A24 /* Texas Tech University */;
+			targetProxy = 441FE2AC2C6EC28300897A24 /* PBXContainerItemProxy */;
+		};
+		441FE2B72C6EC28300897A24 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FE2972C6EC28100897A24 /* Texas Tech University */;
+			targetProxy = 441FE2B62C6EC28300897A24 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		441FE2BD2C6EC28300897A24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		441FE2BE2C6EC28300897A24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		441FE2C02C6EC28300897A24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Texas Tech University/Texas_Tech_University.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Texas Tech University/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ETDC.Texas-Tech-University";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		441FE2C12C6EC28300897A24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Texas Tech University/Texas_Tech_University.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Texas Tech University/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ETDC.Texas-Tech-University";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		441FE2C32C6EC28300897A24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ETDC.Texas-Tech-UniversityTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Texas Tech University.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Texas Tech University";
+			};
+			name = Debug;
+		};
+		441FE2C42C6EC28300897A24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ETDC.Texas-Tech-UniversityTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Texas Tech University.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Texas Tech University";
+			};
+			name = Release;
+		};
+		441FE2C62C6EC28300897A24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ETDC.Texas-Tech-UniversityUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Texas Tech University";
+			};
+			name = Debug;
+		};
+		441FE2C72C6EC28300897A24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ETDC.Texas-Tech-UniversityUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Texas Tech University";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		441FE2932C6EC28100897A24 /* Build configuration list for PBXProject "Texas Tech University" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				441FE2BD2C6EC28300897A24 /* Debug */,
+				441FE2BE2C6EC28300897A24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		441FE2BF2C6EC28300897A24 /* Build configuration list for PBXNativeTarget "Texas Tech University" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				441FE2C02C6EC28300897A24 /* Debug */,
+				441FE2C12C6EC28300897A24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		441FE2C22C6EC28300897A24 /* Build configuration list for PBXNativeTarget "Texas Tech UniversityTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				441FE2C32C6EC28300897A24 /* Debug */,
+				441FE2C42C6EC28300897A24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		441FE2C52C6EC28300897A24 /* Build configuration list for PBXNativeTarget "Texas Tech UniversityUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				441FE2C62C6EC28300897A24 /* Debug */,
+				441FE2C72C6EC28300897A24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 441FE2902C6EC28100897A24 /* Project object */;
+}
